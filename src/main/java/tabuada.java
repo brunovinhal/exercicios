@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class tabuada {
+
     public static void main(String[] args) {
         String valor = JOptionPane.showInputDialog("informe um numero para taboada");
         int taboada = Integer.parseInt(valor);
