@@ -12,5 +12,4 @@ public class InserirSenha {
             System.out.println("ACESSO NEGADO");
         }
     }
-
 }
